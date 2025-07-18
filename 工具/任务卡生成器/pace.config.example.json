@@ -1,0 +1,21 @@
+{
+  "projectName": "电商平台",
+  "projectPrefix": "ECOM",
+  "outputDir": "specs",
+  "templateDir": "../../模板/任务卡",
+  "teamMembers": [
+    "张三",
+    "李四",
+    "王五",
+    "赵六",
+    "孙七"
+  ],
+  "defaultSettings": {
+    "priority": "P1",
+    "estimationUnit": "hours"
+  },
+  "customValidators": [
+    "business-rule-validator",
+    "security-check-validator"
+  ]
+}
