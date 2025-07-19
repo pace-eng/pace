@@ -211,7 +211,7 @@ gantt
     title 架构实施路线图
     dateFormat  YYYY-MM-DD
     section 阶段1
-    基础架构搭建    :a1, 2024-01-01, 30d
+    基础架构搭建    :a1, 2025-01-01, 30d
     核心模块开发    :a2, after a1, 45d
     section 阶段2
     功能扩展       :b1, after a2, 30d

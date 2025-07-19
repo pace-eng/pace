@@ -272,9 +272,9 @@ gantt
     title 创新探索时间线
     dateFormat  YYYY-MM-DD
     section 发现阶段
-    用户研究        :discover1, 2024-01-01, 21d
-    市场分析        :discover2, 2024-01-01, 14d
-    技术调研        :discover3, 2024-01-08, 14d
+    用户研究        :discover1, 2025-01-01, 21d
+    市场分析        :discover2, 2025-01-01, 14d
+    技术调研        :discover3, 2025-01-08, 14d
     section 定义阶段
     问题定义        :define1, after discover1, 7d
     机会识别        :define2, after discover2, 7d

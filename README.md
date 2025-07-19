@@ -1,13 +1,13 @@
-# PACE 1.0 方法论 | PACE 1.0 Methodology
+# PACE 1.1 方法论 | PACE 1.1 Methodology
 
 <div align="center">
 
-![PACE Logo](https://img.shields.io/badge/PACE-1.0-blue?style=for-the-badge)
+![PACE Logo](https://img.shields.io/badge/PACE-1.1-blue?style=for-the-badge)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Documentation](https://img.shields.io/badge/Documentation-中文-red?style=for-the-badge)](docs/zh/)
 [![Documentation](https://img.shields.io/badge/Documentation-English-blue?style=for-the-badge)](docs/en/)
 
-**程序化AI协作工程** - 为AI时代而生的软件工程方法论
+**程序化AI协作工程** - AI协作增强版软件工程方法论
 
 [中文版本](#中文版本) | [English Version](#english-version)
 
@@ -17,7 +17,7 @@
 
 ## 中文版本
 
-### 🚀 什么是PACE 1.0？
+### 🚀 什么是PACE 1.1？
 
 **PACE**（**P**rogrammatic **A**I **C**ollaboration **E**ngineering）是一个专为AI时代设计的软件工程方法论。它不是简单地将AI工具插入传统开发流程，而是从根本上重新设计了人机协作的模式，建立了一个适应性强、可持续发展的智能化软件工程体系。
 
@@ -55,7 +55,7 @@ docs/zh/methodology/快速开始.md
 ### 📖 文档导航
 
 #### 📚 核心文档
-- [完整规范文档](docs/zh/methodology/pace-1.0-规范.md) - PACE 1.0完整方法论
+- [完整规范文档](docs/zh/methodology/pace-1.0-规范.md) - PACE 1.1完整方法论
 - [快速开始](docs/zh/methodology/快速开始.md) - 5分钟了解核心概念
 - [核心概念](docs/zh/methodology/核心概念/) - 深入理解PACE理论基础
 
@@ -77,7 +77,7 @@ docs/zh/methodology/快速开始.md
 
 ### 🤝 参与贡献
 
-PACE 1.0是一个开源方法论，我们欢迎各种形式的贡献：
+PACE 1.1是一个开源方法论，我们欢迎各种形式的贡献：
 
 - 📝 **文档改进**：完善文档、修正错误、添加案例
 - 🔧 **工具开发**：开发配套工具、模板和脚本
@@ -94,13 +94,14 @@ PACE 1.0是一个开源方法论，我们欢迎各种形式的贡献：
 
 - 📧 邮箱：pace-methodology@example.com
 - 💬 讨论：[GitHub Discussions](https://github.com/pace-eng/pace/discussions)
-- 📚 文档：[在线文档](https://pace-eng.github.io/pace/)
+- 📚 文档：[PACE 官方网站](https://pace.150404.xyz/)
+- 🌟 GitHub：[pace-eng/pace](https://github.com/pace-eng/pace)
 
 ---
 
 ## English Version
 
-### 🚀 What is PACE 1.0?
+### 🚀 What is PACE 1.1?
 
 **PACE** (**P**rogrammatic **A**I **C**ollaboration **E**ngineering) is a software engineering methodology designed specifically for the AI era. Rather than simply inserting AI tools into traditional development processes, it fundamentally redesigns human-AI collaboration patterns, establishing an adaptive and sustainable intelligent software engineering system.
 
@@ -138,7 +139,7 @@ docs/en/methodology/getting-started.md
 ### 📖 Documentation
 
 #### 📚 Core Documentation
-- [Complete Specification](docs/en/methodology/pace-1.0-specification.md) - Full PACE 1.0 methodology
+- [Complete Specification](docs/en/methodology/pace-1.0-specification.md) - Full PACE 1.1 methodology
 - [Getting Started](docs/en/methodology/getting-started.md) - Understand core concepts in 5 minutes
 - [Core Concepts](docs/en/methodology/core-concepts/) - Deep dive into PACE theoretical foundations
 
@@ -154,7 +155,7 @@ docs/en/methodology/getting-started.md
 
 ### 🤝 Contributing
 
-PACE 1.0 is an open-source methodology. We welcome all forms of contributions:
+PACE 1.1 is an open-source methodology. We welcome all forms of contributions:
 
 - 📝 **Documentation**: Improve docs, fix errors, add cases
 - 🔧 **Tool Development**: Develop supporting tools, templates, and scripts  
@@ -171,7 +172,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 - 📧 Email: pace-methodology@example.com
 - 💬 Discussions: [GitHub Discussions](https://github.com/pace-eng/pace/discussions)  
-- 📚 Documentation: [Online Docs](https://pace-eng.github.io/pace/)
+- 📚 Documentation: [PACE Official Website](https://pace.150404.xyz/)
+- 🌟 GitHub: [pace-eng/pace](https://github.com/pace-eng/pace)
 
 ---
 
